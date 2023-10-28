@@ -27,13 +27,15 @@ The COVID Stat Flutter app is a mobile application that provides real-time stati
 ![App Screenshot 1](screenshots/3.jpg)
 
 - **Country List:** View a list of countries and access their individual COVID-19 statistics.
-![App Screenshot 1](screenshots/2.jpg)
+![App Screenshot 2](screenshots/2.jpg)
 
 - **Data Visualization:** Utilize data visualization tools like charts to better understand the statistics.
-![App Screenshot 1](screenshots/1.jpg)
+![App Screenshot 3](screenshots/1.jpg)
 
 - **Search Functionality:** Easily search for a specific country to see its COVID-19 details.
-![App Screenshot 1](screenshots/4.jpg)s
+![App Screenshot 4](screenshots/4.jpg)
+
+(if you want to check out the pictures of this app please check the folder which is called screenshots it has all the pictures)
 
 
 The app uses  API for fetching COVID-19 data:
